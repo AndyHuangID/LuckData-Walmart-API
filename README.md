@@ -1,4 +1,7 @@
 # LuckData-Walmart-API
+
+Luckdata provides an API with 100 free credits every month. This allows small businesses or individuals with low data requirements to use the API for tasks such as testing and data analysis.
+
 LuckData Walmart API enables developers to access Walmart's extensive catalog of products, allowing integration of product search, details, and reviews directly into applications.
 
 # How to Use
